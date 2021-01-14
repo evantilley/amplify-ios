@@ -1,0 +1,6 @@
+framework module Pods_todo_amplify {
+  umbrella header "Pods-todo-amplify-umbrella.h"
+
+  export *
+  module * { export * }
+}
